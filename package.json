@@ -7,7 +7,7 @@
     "ityped": "^1.0.3",
     "node-sass": "^4.8.3",
     "normalize.css": "^8.0.0",
-    "parcel": "^1.12.4",
+    "parcel": "^2.8.2",
     "typed.js": "^2.0.8"
   }
 }
